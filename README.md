@@ -1,16 +1,84 @@
-## Hi there 👋
+# ¡Hola! Pasaste por aquí... 👋
 
-<!--
-**Ravenmaster9912/Ravenmaster9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy **Ravenmaster (Dani Martinez)** 🚀
+*Desarrollador Full-Stack apasionado por crear soluciones web innovadoras y eficientes*
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ravenmaster9912&label=Vistas%20del%20perfil&color=0e76a8&style=flat-square" alt="Vistas de perfil" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre Mí:
+- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto principal o empresa]**
+- 🌱 Estoy profundizando mis conocimientos en **[Tecnología, Framework o lenguaje que estudias]**
+- 👯 Busco colaborar en **[Tipo de proyectos, ej: proyectos Open Source o iniciativas Web3]**
+- 💬 Pregúntame sobre **[Tus temas de especialidad, ej: React, Node.js, Arquitectura Limpia]**
+- ⚡ Dato curioso: **[Algo divertido, un pasatiempo o un logro personal no tecnológico]**
+
+---
+
+### 🛠️ Tecnologías y Herramientas:
+
+#### Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+#### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JQuery-ADF2FF?style=for-the-badge&logo=jquery&logoColor=black" alt="JQuery" />
+  <img src="https://img.shields.io/badge/verilog-5900FF.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+</p>
+
+#### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+#### Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MariaDB-30000?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
+
+#### Herramientas & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C36?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravenmaster9912&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenmaster9912&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=radial&hide_border=true" alt="Racha de GitHub" />
+</p>
+
+---
+
+### 🤝 Conéctate Conmigo:
+<p align="left">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/TU_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
+</p>
+
+---
+<p align="center">
+  <i>Creado con ❤️ usando Markdown</i>
+</p>
