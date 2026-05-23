@@ -1,7 +1,6 @@
-# ¡Hola! Pasaste por aquí... 👋
-
-## Soy **Ravenmaster (Dani Martinez)** 🚀
+## Hola, soy **Ravenmaster (Dani Martinez)** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 *Desarrollador Full-Stack apasionado por crear soluciones web innovadoras y eficientes*
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ravenmaster9912&label=Vistas%20del%20perfil&color=0e76a8&style=flat-square" alt="Vistas de perfil" />
@@ -9,12 +8,13 @@
 
 ---
 
+<img align="right" width=300px alt="Workin'" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" />
+
 ### 👨‍💻 Sobre Mí:
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto principal o empresa]**
-- 🌱 Estoy profundizando mis conocimientos en **[Tecnología, Framework o lenguaje que estudias]**
-- 👯 Busco colaborar en **[Tipo de proyectos, ej: proyectos Open Source o iniciativas Web3]**
-- 💬 Pregúntame sobre **[Tus temas de especialidad, ej: React, Node.js, Arquitectura Limpia]**
-- ⚡ Dato curioso: **[Algo divertido, un pasatiempo o un logro personal no tecnológico]**
+- 🔭 Actualmente estoy trabajando en **Encontrar chamba**
+- 🌱 Estoy profundizando mis conocimientos en **Laravel y SaaS**
+- 👯 Busco colaborar en **Proyectos web**
+- 💬 Pregúntame sobre **Specs de PCs**
 
 ---
 
@@ -28,7 +28,7 @@
 #### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/JQuery-ADF2FF?style=for-the-badge&logo=jquery&logoColor=black" alt="JQuery" />
   <img src="https://img.shields.io/badge/verilog-5900FF.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
@@ -43,7 +43,7 @@
 #### Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MariaDB-30000?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
 #### Herramientas & DevOps
@@ -60,11 +60,6 @@
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravenmaster9912&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenmaster9912&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=radial&hide_border=true" alt="Racha de GitHub" />
 </p>
 
@@ -72,10 +67,9 @@
 
 ### 🤝 Conéctate Conmigo:
 <p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/TU_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/daniel-martinez-gonzalez-560338201/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:danielmartinez9912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 ---
