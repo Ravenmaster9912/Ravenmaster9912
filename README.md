@@ -59,8 +59,18 @@
 
 ### 📊 Estadísticas de GitHub:
 
+<div align="center">
+
+[![](https://github-readme-stats.vercel.app/api?Ravenmaster9912&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ravenmaster9912)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=material-palenight)](https://github.com/Ravenmaster9912)
+
+</div>
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=radial&hide_border=true" alt="Racha de GitHub" />
+  
+  ![snake animation](https://github.com/Ravenmaster9912/Ravenmaster9912/blob/output/github-contribution-grid-snake2.svg)
+
 </p>
 
 ---
