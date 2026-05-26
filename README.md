@@ -1,11 +1,6 @@
 ## Hola, soy **Ravenmaster (Dani Martinez)** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 *Desarrollador Full-Stack apasionado por crear soluciones web innovadoras y eficientes*
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ravenmaster9912&label=Vistas%20del%20perfil&color=0e76a8&style=flat-square" alt="Vistas de perfil" />
-</p>
-
+  
 ---
 
 <img align="right" width=300px alt="Workin'" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" />
@@ -65,14 +60,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=material-palenight)](https://github.com/Ravenmaster9912)
 
 </div>
-
----
-
-<p align="center">
-  
-  ![snake animation](https://github.com/Ravenmaster9912/Ravenmaster9912/blob/output/github-contribution-grid-snake2.svg)
-
-</p>
 
 ---
 
