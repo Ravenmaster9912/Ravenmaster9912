@@ -1,19 +1,19 @@
-## Hola, soy **Ravenmaster (Dani Martinez)** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## Hola, soy **Ravenmaster (Dani Martinez)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 *Desarrollador Full-Stack apasionado por crear soluciones web innovadoras y eficientes*
   
 ---
 
 <img align="right" width=300px alt="Workin'" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" />
 
-### 👨‍💻 Sobre Mí:
-- 🔭 Actualmente estoy trabajando en **Encontrar chamba**
-- 🌱 Estoy profundizando mis conocimientos en **Laravel y SaaS**
-- 👯 Busco colaborar en **Proyectos web**
-- 💬 Pregúntame sobre **Specs de PCs**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Sobre Mí:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> Actualmente estoy trabajando en **Encontrar chamba**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Estoy profundizando mis conocimientos en **Laravel y SaaS**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Men%20with%20Bunny%20Ears.png" alt="Men with Bunny Ears" width="20" height="20" /> Busco colaborar en **Proyectos web**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="💬" width="20" height="20"> Pregúntame sobre **Specs de PCs**
 
 ---
 
-### 🛠️ Tecnologías y Herramientas:
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="30" height="30"> Tecnologías y Herramientas:
 
 #### Frameworks
 <p align="left">
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub:
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="30" height="30"> Estadísticas de GitHub:
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 🤝 Conéctate Conmigo:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Conéctate Conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-martinez-gonzalez-560338201/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danielmartinez9912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -72,5 +72,5 @@
 
 ---
 <p align="center">
-  <i>Creado con ❤️ usando Markdown</i>
+  <i>Creado con <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> usando Markdown</i>
 </p>
