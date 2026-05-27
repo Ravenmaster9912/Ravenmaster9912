@@ -57,9 +57,10 @@
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?Ravenmaster9912&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ravenmaster9912)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=material-palenight)](https://github.com/Ravenmaster9912)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ravenmaster9912&theme=tokyonight)](https://github.com/Ravenmaster9912) <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravenmaster9912&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
 
 ---
 
@@ -67,7 +68,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-martinez-gonzalez-560338201/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danielmartinez9912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
+  <!--<a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>-->
 </p>
 
 ---
