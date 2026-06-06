@@ -67,8 +67,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Conéctate Conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-martinez-gonzalez-560338201/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:danielmartinez9912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!--<a href="https://tu-portafolio.com" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>-->
+  <a href="mailto:josedanielmartinez9912@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ravenmaster9912.github.io/portafolio/" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 ---
