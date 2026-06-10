@@ -70,8 +70,3 @@
   <a href="mailto:josedanielmartinez9912@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ravenmaster9912.github.io/portafolio/" target="blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portafolio" /></a>
 </p>
-
----
-<p align="center">
-  <i>Creado con <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> usando Markdown</i>
-</p>
